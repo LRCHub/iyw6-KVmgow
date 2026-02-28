@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "月光",
+  "base_artist": "鬼束ちひろ",
+  "createdAt": "2026-02-28T12:44:06.564257Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月光",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/01_月光_B'z.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月光",
+      "artist": "Dreams Come True",
+      "has_synced": false,
+      "path": "select/02_月光_Dreams_Come_True.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gekkou [月光]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Gekkou_[月光]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "月光 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/04_月光_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "月光、街を焼く",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/05_月光、街を焼く_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "月光",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO",
+      "has_synced": true,
+      "path": "select/06_月光_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "月光 (Moonlight)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/07_月光_(Moonlight)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "月光 (Moonlight)",
+      "artist": "EXO-M",
+      "has_synced": true,
+      "path": "select/08_月光_(Moonlight)_EXO-M.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "月光",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/09_月光_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "月光",
+      "artist": "キタニタツヤ feat. Harumakigohan",
+      "has_synced": true,
+      "path": "select/10_月光_キタニタツヤ_feat._Harumakigohan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "月光 (feat.はるまきごはん)",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/11_月光_(feat.はるまきごはん)_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "月光",
+      "artist": "鬼束 ちひろ",
+      "has_synced": false,
+      "path": "select/12_月光_鬼束_ちひろ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "月光",
+      "artist": "王心凌",
+      "has_synced": true,
+      "path": "select/13_月光_王心凌.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月光",
+      "artist": "鬼束 ちひろ",
+      "has_synced": false,
+      "path": "select/pl_01_月光_鬼束_ちひろ.txt"
+    }
+  ]
+}
